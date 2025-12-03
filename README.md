@@ -4,7 +4,9 @@
 ### I'm a Full-Stack Software Engineer driven by the mission, the team, and the craft.
 <br/>
 
-- ❤️ I love learning new technologies to build high impact features end-to-end that deliver measurable impact and great value for the users.
+- 💻 I have 7+ years of experience building scalable systems serving millions of users, and I specialize in Python/Django.
+
+- ❤️ I love learning new languages and technologies to build high impact features end-to-end that deliver measurable impact and great value for the users.
 
 - 😖 I don't like bugs! (although I do enjoy debugging and fixing them) That's why I take pride in writing clean and maintainable code along with thorough unit and integration tests. And I do review test files in PRs too 🔍
 
